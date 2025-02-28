@@ -1,0 +1,14 @@
+D:\intra_dev\Ms365Scheduler\Ms365Scheduler\bin\Release\net8.0\Ms365Scheduler.exe
+D:\intra_dev\Ms365Scheduler\Ms365Scheduler\bin\Release\net8.0\Ms365Scheduler.deps.json
+D:\intra_dev\Ms365Scheduler\Ms365Scheduler\bin\Release\net8.0\Ms365Scheduler.runtimeconfig.json
+D:\intra_dev\Ms365Scheduler\Ms365Scheduler\bin\Release\net8.0\Ms365Scheduler.dll
+D:\intra_dev\Ms365Scheduler\Ms365Scheduler\bin\Release\net8.0\Ms365Scheduler.pdb
+D:\intra_dev\Ms365Scheduler\Ms365Scheduler\obj\Release\net8.0\Ms365Scheduler.GeneratedMSBuildEditorConfig.editorconfig
+D:\intra_dev\Ms365Scheduler\Ms365Scheduler\obj\Release\net8.0\Ms365Scheduler.AssemblyInfoInputs.cache
+D:\intra_dev\Ms365Scheduler\Ms365Scheduler\obj\Release\net8.0\Ms365Scheduler.AssemblyInfo.cs
+D:\intra_dev\Ms365Scheduler\Ms365Scheduler\obj\Release\net8.0\Ms365Scheduler.csproj.CoreCompileInputs.cache
+D:\intra_dev\Ms365Scheduler\Ms365Scheduler\obj\Release\net8.0\Ms365Scheduler.dll
+D:\intra_dev\Ms365Scheduler\Ms365Scheduler\obj\Release\net8.0\refint\Ms365Scheduler.dll
+D:\intra_dev\Ms365Scheduler\Ms365Scheduler\obj\Release\net8.0\Ms365Scheduler.pdb
+D:\intra_dev\Ms365Scheduler\Ms365Scheduler\obj\Release\net8.0\Ms365Scheduler.genruntimeconfig.cache
+D:\intra_dev\Ms365Scheduler\Ms365Scheduler\obj\Release\net8.0\ref\Ms365Scheduler.dll
